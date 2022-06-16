@@ -2595,7 +2595,7 @@ textarea.form-control-lg {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #bd5d38;
+  background-color: #BFFFF5;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -2624,7 +2624,7 @@ textarea.form-control-lg {
 .form-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #bd5d38;
+  background-color: #BFFFF5;
   border: 0;
   border-radius: 1rem;
   -moz-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4805,7 +4805,7 @@ textarea.form-control-lg {
 .page-link {
   position: relative;
   display: block;
-  color: #bd5d38;
+  color: #BFFFF5;
   text-decoration: none;
   background-color: #fff;
   border: 1px solid #dee2e6;
@@ -4836,8 +4836,8 @@ textarea.form-control-lg {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #BFFFF5;
+  border-color: #BFFFF5;
 }
 .page-item.disabled .page-link {
   color: #6c757d;
@@ -5033,7 +5033,7 @@ textarea.form-control-lg {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #bd5d38;
+  background-color: #BFFFF5;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5116,8 +5116,8 @@ textarea.form-control-lg {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #BFFFF5;
+  border-color: #BFFFF5;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -6436,7 +6436,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #bd5d38;
+  color: #BFFFF5;
 }
 .link-primary:hover, .link-primary:focus {
   color: #ca7d60;
@@ -6889,7 +6889,7 @@ textarea.form-control-lg {
 }
 
 .border-primary {
-  border-color: #bd5d38 !important;
+  border-color: #BFFFF5 !important;
 }
 
 .border-secondary {
@@ -11400,7 +11400,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #BFFFF5;
 }
 
 .dev-icons {
